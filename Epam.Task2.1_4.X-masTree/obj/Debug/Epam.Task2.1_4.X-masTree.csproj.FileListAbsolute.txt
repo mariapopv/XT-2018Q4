@@ -1,0 +1,7 @@
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2.1_4.X-masTree\bin\Debug\Epam.Task2.1_4.X-masTree.exe.config
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2.1_4.X-masTree\bin\Debug\Epam.Task2.1_4.X-masTree.exe
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2.1_4.X-masTree\bin\Debug\Epam.Task2.1_4.X-masTree.pdb
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2.1_4.X-masTree\obj\Debug\Epam.Task2.1_4.X-masTree.csprojAssemblyReference.cache
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2.1_4.X-masTree\obj\Debug\Epam.Task2.1_4.X-masTree.csproj.CoreCompileInputs.cache
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2.1_4.X-masTree\obj\Debug\Epam.Task2.1_4.X-masTree.exe
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2.1_4.X-masTree\obj\Debug\Epam.Task2.1_4.X-masTree.pdb

@@ -1,0 +1,7 @@
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2.1_3.AnotherTriangle\bin\Debug\Epam.Task2.1_3.AnotherTriangle.exe.config
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2.1_3.AnotherTriangle\bin\Debug\Epam.Task2.1_3.AnotherTriangle.exe
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2.1_3.AnotherTriangle\bin\Debug\Epam.Task2.1_3.AnotherTriangle.pdb
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2.1_3.AnotherTriangle\obj\Debug\Epam.Task2.1_3.AnotherTriangle.csprojAssemblyReference.cache
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2.1_3.AnotherTriangle\obj\Debug\Epam.Task2.1_3.AnotherTriangle.csproj.CoreCompileInputs.cache
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2.1_3.AnotherTriangle\obj\Debug\Epam.Task2.1_3.AnotherTriangle.exe
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2.1_3.AnotherTriangle\obj\Debug\Epam.Task2.1_3.AnotherTriangle.pdb

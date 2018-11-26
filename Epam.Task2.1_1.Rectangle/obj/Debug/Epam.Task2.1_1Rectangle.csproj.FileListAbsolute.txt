@@ -1,0 +1,7 @@
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2\bin\Debug\Epam.Task2.exe.config
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2\bin\Debug\Epam.Task2.exe
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2\bin\Debug\Epam.Task2.pdb
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2\obj\Debug\Epam.Task2.1_1Rectangle.csprojAssemblyReference.cache
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2\obj\Debug\Epam.Task2.1_1Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2\obj\Debug\Epam.Task2.exe
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2\obj\Debug\Epam.Task2.pdb
