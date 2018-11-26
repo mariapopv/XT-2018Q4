@@ -1,0 +1,7 @@
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2.1_7.Array\bin\Debug\Epam.Task2.1_7.Array.exe.config
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2.1_7.Array\bin\Debug\Epam.Task2.1_7.Array.exe
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2.1_7.Array\bin\Debug\Epam.Task2.1_7.Array.pdb
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2.1_7.Array\obj\Debug\Epam.Task2.1_7.ArrayProcessing.csprojAssemblyReference.cache
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2.1_7.Array\obj\Debug\Epam.Task2.1_7.ArrayProcessing.csproj.CoreCompileInputs.cache
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2.1_7.Array\obj\Debug\Epam.Task2.1_7.Array.exe
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2.1_7.Array\obj\Debug\Epam.Task2.1_7.Array.pdb

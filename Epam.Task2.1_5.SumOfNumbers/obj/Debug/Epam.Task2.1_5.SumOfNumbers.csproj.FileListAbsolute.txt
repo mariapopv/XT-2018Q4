@@ -1,0 +1,7 @@
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2.1_5.SumOfNumbers\bin\Debug\Epam.Task2.1_5.SumOfNumbers.exe.config
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2.1_5.SumOfNumbers\bin\Debug\Epam.Task2.1_5.SumOfNumbers.exe
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2.1_5.SumOfNumbers\bin\Debug\Epam.Task2.1_5.SumOfNumbers.pdb
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2.1_5.SumOfNumbers\obj\Debug\Epam.Task2.1_5.SumOfNumbers.csprojAssemblyReference.cache
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2.1_5.SumOfNumbers\obj\Debug\Epam.Task2.1_5.SumOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2.1_5.SumOfNumbers\obj\Debug\Epam.Task2.1_5.SumOfNumbers.exe
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2.1_5.SumOfNumbers\obj\Debug\Epam.Task2.1_5.SumOfNumbers.pdb

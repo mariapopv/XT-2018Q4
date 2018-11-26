@@ -1,0 +1,7 @@
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2.1_6.FontAdjustment\bin\Debug\Epam.Task2.1_6.FontAdjustment.exe.config
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2.1_6.FontAdjustment\bin\Debug\Epam.Task2.1_6.FontAdjustment.exe
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2.1_6.FontAdjustment\bin\Debug\Epam.Task2.1_6.FontAdjustment.pdb
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2.1_6.FontAdjustment\obj\Debug\Epam.Task2.1_6.FontAdjustment.csprojAssemblyReference.cache
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2.1_6.FontAdjustment\obj\Debug\Epam.Task2.1_6.FontAdjustment.csproj.CoreCompileInputs.cache
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2.1_6.FontAdjustment\obj\Debug\Epam.Task2.1_6.FontAdjustment.exe
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2.1_6.FontAdjustment\obj\Debug\Epam.Task2.1_6.FontAdjustment.pdb
