@@ -1,0 +1,6 @@
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2.1_11\bin\Debug\Epam.Task2.1_11.exe.config
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2.1_11\bin\Debug\Epam.Task2.1_11.exe
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2.1_11\bin\Debug\Epam.Task2.1_11.pdb
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2.1_11\obj\Debug\Epam.Task2.1_11.StringLength.csproj.CoreCompileInputs.cache
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2.1_11\obj\Debug\Epam.Task2.1_11.exe
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2.1_11\obj\Debug\Epam.Task2.1_11.pdb

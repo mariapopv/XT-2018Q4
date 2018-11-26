@@ -1,0 +1,7 @@
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2.1_9\obj\Debug\Epam.Task2.1_9.NonNegativeSum.csproj.CoreCompileInputs.cache
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2.1_9\obj\Debug\Epam.Task2.1_9.exe
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2.1_9\obj\Debug\Epam.Task2.1_9.pdb
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2.1_9\bin\Debug\Epam.Task2.1_9.exe.config
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2.1_9\bin\Debug\Epam.Task2.1_9.exe
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2.1_9\bin\Debug\Epam.Task2.1_9.pdb
+C:\Users\moani\source\repos\Epam.Task2\Epam.Task2.1_9\obj\Debug\Epam.Task2.1_9.NonNegativeSum.csprojAssemblyReference.cache
